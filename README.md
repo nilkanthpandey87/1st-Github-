@@ -1,2 +1,2 @@
 # 1st-Github-
-This is my git and github class 
+This is my git and github class. 
